@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Quick Start Archetype
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: welcome
+Implementation-Vendor-Id: com.sathya
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Boot_ems
+Created-By: Maven Integration for Eclipse
+
